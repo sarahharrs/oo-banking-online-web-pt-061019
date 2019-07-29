@@ -1,3 +1,4 @@
+require 'pry'
 class BankAccount
   # code here
   attr_accessor :balance, :status
